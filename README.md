@@ -44,14 +44,11 @@ A university project focusing on object-oriented design, including:
 
 ## 🌸 Extra Cute GIF
 <p align="center">
-  <img src="./cuteDuck.gif" width="180" alt="Cute Duck Coding"/>
-  <img src="./chihuahua.gif" width="180" alt="Cute Chihuahua GIF"/>
+  <img src="./cuteDuck.gif" width="150" alt="Cute Duck Coding"/>
+  <img src="./chihuahua.gif" width="150" alt="Cute Chihuahua GIF"/>
+  <img src="./giphy (1).gif" width="150" alt="Hamster GIF"/>
+  <img src="./giphy.gif" width="150" alt="Hacker Duck GIF"/>
 </p>
-<p align="center">
-  <img src="./giphy (1).gif" width="180" alt="Hamster GIF"/>
-  <img src="./giphy.gif" width="180" alt="Hacker Duck GIF"/>
-</p>
-
 
 ---
 
