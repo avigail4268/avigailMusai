@@ -43,15 +43,6 @@ A university project focusing on object-oriented design, including:
 
 ---
 
-## 💖 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avigail4268&show_icons=true&theme=tokyonight&hide_border=true" width="400"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avigail4268&layout=compact&theme=tokyonight&hide_border=true" width="300"/>
-</p>
-
----
-
 ## 🌸 Extra Cute GIF
 <p align="center">
   <img src="./cuteDuck.gif" width="200" alt="Cute Duck Coding"/>
