@@ -1,4 +1,7 @@
 <h1 align="center">Hi! I'm Avigail Musai 💖👩🏻‍💻</h1>
+<p align="center">
+  <img src="./hair flip.gif" width="260" alt="Funny Entrance GIF"/>
+</p>
 
 <p align="center">
   <img src="./giphy.gif" width="260" alt="Hacker Duck GIF"/>
@@ -46,6 +49,12 @@ A university project focusing on object-oriented design, including:
 ## 🌸 Extra Cute GIF
 <p align="center">
   <img src="./cuteDuck.gif" width="200" alt="Cute Duck Coding"/>
+</p>
+<p align="center">
+  <img src="./chihuahua.gif" width="220" alt="Cute Chihuahua GIF"/>
+</p>
+<p align="center">
+  <img src="./giphy (1).gif" width="220" alt="Hamster GIF"/>
 </p>
 
 ---
