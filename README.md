@@ -4,10 +4,6 @@
 </p>
 
 <p align="center">
-  <img src="./giphy.gif" width="260" alt="Hacker Duck GIF"/>
-</p>
-
-<p align="center">
   A Software Engineering student who loves clean code, OOP, cute aesthetics,  
   and building fun projects that (usually 😅) work on the first try.  
 </p>
@@ -48,14 +44,14 @@ A university project focusing on object-oriented design, including:
 
 ## 🌸 Extra Cute GIF
 <p align="center">
-  <img src="./cuteDuck.gif" width="200" alt="Cute Duck Coding"/>
+  <img src="./cuteDuck.gif" width="180" alt="Cute Duck Coding"/>
+  <img src="./chihuahua.gif" width="180" alt="Cute Chihuahua GIF"/>
 </p>
 <p align="center">
-  <img src="./chihuahua.gif" width="220" alt="Cute Chihuahua GIF"/>
+  <img src="./giphy (1).gif" width="180" alt="Hamster GIF"/>
+  <img src="./giphy.gif" width="180" alt="Hacker Duck GIF"/>
 </p>
-<p align="center">
-  <img src="./giphy (1).gif" width="220" alt="Hamster GIF"/>
-</p>
+
 
 ---
 
