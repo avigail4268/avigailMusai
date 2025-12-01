@@ -5,7 +5,7 @@
 
 <p align="center">
   A Software Engineering student who loves clean code, OOP, cute aesthetics,  
-  and building fun projects that (usually 😅) work on the first try.  
+  and building fun projects
 </p>
 
 ---
